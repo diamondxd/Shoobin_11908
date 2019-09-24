@@ -5,7 +5,7 @@ public class arM {
 
   public static void main(String [] args) {
  
-   System.out.println("                              Welcome to random 2D array multiplication program!");
+   System.out.println("                              Welcome to random array multiplication program!");
        
  
  
@@ -19,6 +19,7 @@ public class arM {
   int b = lol.nextInt();
   
   System.out.println();
+  System.out.println("Enter array");
   
    int[][] ar = new int[a][b];
      
@@ -26,16 +27,16 @@ public class arM {
 		 
 	  for(int j = 0; j < b; j++) {
 		  
-		  ar[i][j] = xd.nextInt(10);
+		  ar[i][j] = lol.nextInt();
 		  
-		  System.out.print(ar[i][j] + " ");
+		 
 		  
 		  
 		  
 		  
 	  }
 		 
-		 System.out.println();
+		
 		 
 	 }
 	  
@@ -46,6 +47,7 @@ public class arM {
   int b1 = lol.nextInt();
   
   System.out.println();
+  System.out.println("Enter array");
   
    int[][] ar1 = new int[a1][b1];
      
@@ -53,16 +55,16 @@ public class arM {
 		 
 	  for(int j = 0; j < b1; j++) {
 		  
-		  ar1[i][j] = xd.nextInt(10);
+		  ar1[i][j] = lol.nextInt();
 		  
-		  System.out.print(ar1[i][j] + " ");
+		  
 		  
 		  
 		  
 		  
 	  }
 		 
-		 System.out.println();
+		
 		 
 	 }
 	
