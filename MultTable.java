@@ -22,7 +22,7 @@ import java.util.Scanner;
 		  
 		  System.out.println();
 		 
-		  for(int i = 1; i <= 4*(x+3); i++) {
+		  for(int i = 1; i <= 4*(x+2); i++) {
 			 
 			  System.out.print("-");
 			 
