@@ -9,7 +9,7 @@ public class PI {
 	 
 	 System.out.println("Enter N");
 	 
-	 long n = ko.nextInt();
+	 long n = ko.nextLong();
 	 
 	  for(int i = 1; i <= n; i = i+4) {
 		  
