@@ -12,9 +12,10 @@ import java.util.Random;
 		 
 		 int m = sc.nextInt();
 		 int n = sc.nextInt();
-		 int k = 1;
-		 int max = 1;
+		 int k = 0;
+		 int max = 0;
 		 int maxa = 0;
+		 int max1 = 0;
 		 
 		 int[][] a = new int[m][n];
 		 
@@ -35,25 +36,35 @@ import java.util.Random;
 		  System.out.println(" Result:");
 		  
 		  for(int i = 0; i < n; i++) {
-			  for(int j = 1; j < m; j++) {
+			  for(int j = 0; j < m; j++) {
+				  for(int w = j; w < m;  w++){
 				  
-				  if(a[j][i] == a[j-1][i]) {
-					  k++;
-				  }
-				  else {
-					  k =1;
+				   if(a[j][i] == a[w][i]) {
+					   
+					   k++;
+					   
+				   }
 				  }
 				  
+				  if(k > max) {
+					  
+					  max = k;
+					  
+				  }
+				  k = 0;
 			  }
-			  if(k > max) {
+			  
+			  if(max > max1) {
 				  
+				  max1 = max;
 				  maxa = i;
 				  
 			  }
-			  k = 1;
+			  
+			  max = 0;
 		  }
-		  
 		  System.out.println(maxa + 1);
+		  
 		  
 	 }
 	 
