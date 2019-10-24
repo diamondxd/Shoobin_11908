@@ -1,0 +1,8 @@
+Enter M  N and K pls
+
+2 7 9 
+2 8 8 
+
+ Result:
+Mult. = 128
+Sum. = 18
