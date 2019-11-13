@@ -13,6 +13,8 @@ import java.io.IOException;
  * Задачи могут использовать результаты предыдущей задачи.
  * Если решить задачу не удалось, но она используется в следующей, вводите данные вручную.
  * Контрольная на 10 баллов.
+ *
+ * Итого 6,5 баллов.
  */
 public class CW {
     /**
@@ -30,6 +32,7 @@ public class CW {
      * 1.
      * Создать массив до заданного числа такой, что каждый элемент больше предыдущего на 7.
      * Первое значение случайное от 0 до 100.
+     * Зачтено, массив не соответствует заданию.
      */
     public static int [] getSevensArray(int limit) {
 
@@ -49,10 +52,12 @@ public class CW {
     /**
      * 2.
      * Дан массив. Найти второй самый большой элемент.
+     * Ответ не верный, см. пример. 0,5.
      */
     public static int getSecondLargest(int [] array) {
         int max1 = -2147483648;
         int max2 = -2147483648;
+        array = new int[]{3, 2, 5, 4, 1, 0};
 
         for(int i = 0; i < array.length; i++) {
 
@@ -78,7 +83,7 @@ public class CW {
     /**
      * 3.
      * Написать метод сравнивающий два числа с плавающей точкой с точностью до двух разрадов.
-     * @return boolean
+     * Зачтено.
      */
     public static boolean isDoubleEquals(double a, double b) {
 
@@ -102,6 +107,7 @@ public class CW {
      * Число является простым является простым,
      * если оно больше 1 и при этом делится без остатка только на 1 и на себя.
      * Единица не простое число.
+     * Зачтено.
      */
     public static boolean isPrime(int x) {
 
@@ -140,6 +146,7 @@ public class CW {
      * 5.
      * Даны две строки: слово и разделитель, вывести строку содержащую количество вхождений слова, разделенноый разделителем.
      * Например, ("Word", "X", 3) => WordXWordXWord.
+     * Зачтено.
      */
     public static String repeatSeparator(String word, String sep, int count) {
 
@@ -178,6 +185,8 @@ public class CW {
      * Go to the store and buy some more, 99 bottles of beer on the wall."
      *
      * Результат записать в файл.
+     *
+     * Зачтено. Нет проверки на последнюю бутылку.
      */
     public static void singSong() throws IOException {
 
@@ -217,7 +226,6 @@ public class CW {
 
         fw.close();
 
-
     }
 
     /**
@@ -241,6 +249,8 @@ public class CW {
      * 5. отбрасываем десятки и отнимаем из 10, и получаем контрольную цифру.
      * Если последняя цифра числа из п.4 = 0, то контрольная цифра равна нулю.
      * @return boolean
+     *
+     * Зачтено.
      */
     public static boolean isISBNValid(String str){
 
@@ -347,28 +357,28 @@ public class CW {
 
                     k1++;
 
-                    str.charAt(j) = 0;
+//                    str.charAt(j) = 0;
 
                 }
 
 
             }
 
-            StrS += (str.charAt(i) + ": " + (String) k1);
+//            StrS += (str.charAt(i) + ": " + (String) k1);
 
             k1 = 0;
 
 
         }
-
+        return strS;
     }
 
     /**
      * Метод main() почти готов, нужно немного подредактировать.
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         int [] sevens;
-        System.out.println("Массив \"семёрок\": " + (sevens = getSevensArray(200)));
+        System.out.println("Массив \"семёрок\": " + arrayToString(sevens = getSevensArray(200)));
         System.out.printf("Вторым самым большим элементом является %d.%n", getSecondLargest(sevens));
 
         /* TODO:
@@ -380,11 +390,17 @@ public class CW {
         for (int value : sevens) {
 
         }
+
+        primes = new int[]{2, 113, 115};
+        for (int value : primes) {
+            System.out.println(value + ": " + isPrime(value));
+        }
+
         if (primes.length > 0) System.out.printf("Простые числа: %s : %d.%n", arrayToString(primes), primes.length);
         else System.out.println("В массиве нет простых чисел.");
 
-        double a = Math.random() * 100;
-        double b = Math.random() * 100;
+        double a = 1.123;  // Math.random() * 100;
+        double b = 1.1234; // Math.random() * 100;
         System.out.printf(isDoubleEquals(a, b) ? "Числа %f и %f равны, с точностью до эпсилон = 0,01.%n" : "Числа %f и %f не равны.%n", a, b);
 
         System.out.println("('Word', 'X', 3) => " + repeatSeparator("Word", "X", 3));
@@ -403,5 +419,14 @@ public class CW {
         String filename = "references.txt";
         String entry = "";
         System.out.printf("Список литературы:%n%s%n", getBookName(entry));
+
+
+        // допустим здесь подаются очищенные ISBN.
+        for (String str :
+                new String[]{"9789857058303", "9785977507356", "9785977507355"}) {
+            System.out.printf("%s - %s.%n", str, isISBNValid(str));
+        }
+
+        System.out.println(lettersFrequency("abba"));
     }
 }
