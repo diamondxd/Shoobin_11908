@@ -1,0 +1,3 @@
+Enter array size (more than 1)
+Enter array
+maxOdd = 5 maxEven = 4 minOdd = 1 minEven = 2

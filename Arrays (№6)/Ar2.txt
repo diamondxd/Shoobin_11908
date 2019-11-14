@@ -1,0 +1,6 @@
+Enter array size
+Enter array :
+Odd: 
+1 3 5 
+Even: 
+2 4 
