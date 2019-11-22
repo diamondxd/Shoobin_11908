@@ -1,0 +1,36 @@
+Ваз 2107
+Red
+210
+105.5
+200.0
+4
+3
+ -Enter vehicle point at X
+ -Enter vehicle point at Y
+Model : Ваз 2107
+Color : Yellow
+Max Velocity : 210
+HP : 105.5
+TrunkCapacity : 200.0
+Point : 5 | 8
+----------
+ -Enter vehicle point at X
+ -Enter vehicle point at Y
+Model : Пазик
+Color : white / Blue
+Max Velocity : 150
+HP : 150.5
+TrunkCapacity : 1000.0
+Point : -10 | 5
+Сидений : 50
+----------
+ -Enter vehicle point at X
+ -Enter vehicle point at Y
+Model : ЭлектроПазик
+Color : Green
+Max Velocity : 136
+HP : 100.0
+TrunkCapacity : 1000.0
+Point : 34 | 8
+Сидений : 60
+Тяга : 85
