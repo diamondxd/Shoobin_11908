@@ -1,0 +1,291 @@
+ Enter ur name: 
+ Hello NaG[i]bAtOR_228! Welcome to the Game
+-------------------
+Round 1
+Ur HP = 100
+Opponent's HP = 100
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 2
+Ur HP = 100
+Opponent's HP = 95
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 3
+Ur HP = 100
+Opponent's HP = 95
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 4
+Ur HP = 100
+Opponent's HP = 90
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 5
+Ur HP = 100
+Opponent's HP = 85
+Enter ur DMG :
+Ur opponent evaded
+U got 5 dmg
+-------------------
+Round 6
+Ur HP = 95
+Opponent's HP = 85
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 7
+Ur HP = 95
+Opponent's HP = 80
+Enter ur DMG :
+Ur opponent evaded
+U got 2 dmg
+-------------------
+Round 8
+Ur HP = 93
+Opponent's HP = 80
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 9
+Ur HP = 93
+Opponent's HP = 80
+Enter ur DMG :
+U got 1 dmg
+-------------------
+Round 10
+Ur HP = 92
+Opponent's HP = 75
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 11
+Ur HP = 92
+Opponent's HP = 70
+Enter ur DMG :
+Ur opponent evaded
+U got 5 dmg
+-------------------
+Round 12
+Ur HP = 87
+Opponent's HP = 70
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 13
+Ur HP = 87
+Opponent's HP = 70
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 14
+Ur HP = 87
+Opponent's HP = 65
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 15
+Ur HP = 87
+Opponent's HP = 60
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 16
+Ur HP = 87
+Opponent's HP = 60
+Enter ur DMG :
+U got 2 dmg
+-------------------
+Round 17
+Ur HP = 85
+Opponent's HP = 55
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 18
+Ur HP = 85
+Opponent's HP = 50
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 19
+Ur HP = 85
+Opponent's HP = 45
+Enter ur DMG :
+U got 0 dmg
+-------------------
+Round 20
+Ur HP = 85
+Opponent's HP = 40
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 21
+Ur HP = 85
+Opponent's HP = 40
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 22
+Ur HP = 85
+Opponent's HP = 40
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 23
+Ur HP = 85
+Opponent's HP = 35
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 24
+Ur HP = 85
+Opponent's HP = 30
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 25
+Ur HP = 85
+Opponent's HP = 30
+Enter ur DMG :
+Ur opponent evaded
+U got 7 dmg
+-------------------
+Round 26
+Ur HP = 78
+Opponent's HP = 30
+Enter ur DMG :
+Ur opponent evaded
+U got 0 dmg
+-------------------
+Round 27
+Ur HP = 78
+Opponent's HP = 30
+Enter ur DMG :
+U got 4 dmg
+-------------------
+Round 28
+Ur HP = 74
+Opponent's HP = 25
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 29
+Ur HP = 74
+Opponent's HP = 20
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 30
+Ur HP = 74
+Opponent's HP = 20
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 31
+Ur HP = 74
+Opponent's HP = 20
+Enter ur DMG :
+U got 2 dmg
+-------------------
+Round 32
+Ur HP = 72
+Opponent's HP = 15
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 33
+Ur HP = 72
+Opponent's HP = 15
+Enter ur DMG :
+Ur opponent evaded
+U got 7 dmg
+-------------------
+Round 34
+Ur HP = 65
+Opponent's HP = 15
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 35
+Ur HP = 65
+Opponent's HP = 10
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 36
+Ur HP = 65
+Opponent's HP = 10
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 37
+Ur HP = 65
+Opponent's HP = 10
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 38
+Ur HP = 65
+Opponent's HP = 10
+Enter ur DMG :
+Ur opponent evaded
+U evaded
+U got 0 dmg
+-------------------
+Round 39
+Ur HP = 65
+Opponent's HP = 10
+Enter ur DMG :
+U evaded
+U got 0 dmg
+-------------------
+Round 40
+Ur HP = 65
+Opponent's HP = 5
+Enter ur DMG :
+
+      U won!!! gg m8
