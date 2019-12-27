@@ -10,7 +10,7 @@ public class Regex {
 
         Scanner sc = new Scanner(System.in);
 
-        String s = "C:\\Users\\Администратор\\Documents\\NetBeansProjects\\JavaLessonsProject\\image.jpg:";
+        String s = "C:\\Users\\Администратор\\Documents\\NetBeansProjects\\JavaLessonsProject\\image.jpg";
 
         String regex = "(\\w+)\\.(jpg|png|bmp)\\b";
 
