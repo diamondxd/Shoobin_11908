@@ -1,0 +1,4 @@
+Sakura;female
+Naruto;male
+Kaneki;male
+Amidamaru;male
