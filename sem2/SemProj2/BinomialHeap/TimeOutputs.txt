@@ -1,0 +1,150 @@
+#1
+Insert(50) : 2600 nanos
+Delete(50) : 36800 nanos
+#2
+Insert(50) : 1900 nanos
+Delete(50) : 15800 nanos
+#3
+Insert(50) : 1800 nanos
+Delete(50) : 13000 nanos
+#4
+Insert(50) : 1700 nanos
+Delete(50) : 13000 nanos
+#5
+Insert(50) : 1900 nanos
+Delete(50) : 14800 nanos
+#6
+Insert(50) : 1800 nanos
+Delete(50) : 23000 nanos
+#7
+Insert(50) : 1800 nanos
+Delete(50) : 14900 nanos
+#8
+Insert(50) : 1400 nanos
+Delete(50) : 12800 nanos
+#9
+Insert(50) : 2900 nanos
+Delete(50) : 19500 nanos
+#10
+Insert(50) : 1600 nanos
+Delete(50) : 16900 nanos
+#11
+Insert(50) : 900 nanos
+Delete(50) : 17000 nanos
+#12
+Insert(50) : 800 nanos
+Delete(50) : 17200 nanos
+#13
+Insert(50) : 800 nanos
+Delete(50) : 22100 nanos
+#14
+Insert(50) : 900 nanos
+Delete(50) : 8800 nanos
+#15
+Insert(50) : 1100 nanos
+Delete(50) : 8300 nanos
+#16
+Insert(50) : 1200 nanos
+Delete(50) : 17000 nanos
+#17
+Insert(50) : 800 nanos
+Delete(50) : 7400 nanos
+#18
+Insert(50) : 800 nanos
+Delete(50) : 8800 nanos
+#19
+Insert(50) : 900 nanos
+Delete(50) : 8800 nanos
+#20
+Insert(50) : 800 nanos
+Delete(50) : 7700 nanos
+#21
+Insert(50) : 700 nanos
+Delete(50) : 8600 nanos
+#22
+Insert(50) : 900 nanos
+Delete(50) : 7800 nanos
+#23
+Insert(50) : 800 nanos
+Delete(50) : 7900 nanos
+#24
+Insert(50) : 800 nanos
+Delete(50) : 7700 nanos
+#25
+Insert(50) : 700 nanos
+Delete(50) : 7300 nanos
+#26
+Insert(50) : 800 nanos
+Delete(50) : 10200 nanos
+#27
+Insert(50) : 800 nanos
+Delete(50) : 7200 nanos
+#28
+Insert(50) : 5092300 nanos
+Delete(50) : 9100 nanos
+#29
+Insert(50) : 400 nanos
+Delete(50) : 5300 nanos
+#30
+Insert(50) : 500 nanos
+Delete(50) : 4600 nanos
+#31
+Insert(50) : 500 nanos
+Delete(50) : 4900 nanos
+#32
+Insert(50) : 400 nanos
+Delete(50) : 5000 nanos
+#33
+Insert(50) : 400 nanos
+Delete(50) : 4300 nanos
+#34
+Insert(50) : 600 nanos
+Delete(50) : 4900 nanos
+#35
+Insert(50) : 500 nanos
+Delete(50) : 4400 nanos
+#36
+Insert(50) : 400 nanos
+Delete(50) : 5500 nanos
+#37
+Insert(50) : 400 nanos
+Delete(50) : 4200 nanos
+#38
+Insert(50) : 400 nanos
+Delete(50) : 4900 nanos
+#39
+Insert(50) : 400 nanos
+Delete(50) : 4700 nanos
+#40
+Insert(50) : 400 nanos
+Delete(50) : 4600 nanos
+#41
+Insert(50) : 400 nanos
+Delete(50) : 4500 nanos
+#42
+Insert(50) : 400 nanos
+Delete(50) : 4700 nanos
+#43
+Insert(50) : 400 nanos
+Delete(50) : 4900 nanos
+#44
+Insert(50) : 400 nanos
+Delete(50) : 4800 nanos
+#45
+Insert(50) : 400 nanos
+Delete(50) : 4500 nanos
+#46
+Insert(50) : 400 nanos
+Delete(50) : 4500 nanos
+#47
+Insert(50) : 400 nanos
+Delete(50) : 5700 nanos
+#48
+Insert(50) : 400 nanos
+Delete(50) : 4500 nanos
+#49
+Insert(50) : 400 nanos
+Delete(50) : 4600 nanos
+#50
+Insert(50) : 400 nanos
+Delete(50) : 5100 nanos
