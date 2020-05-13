@@ -19,6 +19,14 @@ public class Main {
             l.insert(a.get(i));
         }
 
+
+        l.print();
+
+        //task 12 method test >>
+
+        //l.addSort(5);
+        
+        System.out.print("\n");
         l.print();
 
         //task 5 methods >>

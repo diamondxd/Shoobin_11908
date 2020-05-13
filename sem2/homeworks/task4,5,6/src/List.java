@@ -119,6 +119,19 @@ public class List {
 
     }
 
+    public void addSort(int e) {
+
+        Element q = head;
+        while(q.next.data < e) {
+            q = q.next;
+        }
+
+        Element elem = new Element(e, q.next);
+        q.next = elem;
+        size++;
+
+    }
+
     public void print() {
 
 
@@ -182,9 +195,5 @@ public class List {
         return false;
 
     }
-
-    public Element getHead() { return head; }
-    public int getSize() { return size; }
-
 }
 
