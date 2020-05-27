@@ -1,6 +1,11 @@
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+по крайней мере создали исходные данные.
+5/15
+*/
+
 public class Foods {
 
     public static void favoriteFoods(Map map, double rating) {

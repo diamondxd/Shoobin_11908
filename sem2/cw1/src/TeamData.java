@@ -1,5 +1,9 @@
 import java.util.ArrayList;
 
+/**
+Сортировка работает не верно.
+8/10
+*/
 public class TeamData implements Comparable<TeamData> {
 
 
