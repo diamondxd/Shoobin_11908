@@ -1,3 +1,8 @@
+/**
+Тесты не проходят.
+7/15
+*/
+
 public class List {
 
     private Node head;
