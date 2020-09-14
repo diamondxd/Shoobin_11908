@@ -1,0 +1,172 @@
+body {
+    position: relative;
+    top: -8px;
+}
+.top {
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    z-index: 4;
+    background: white;
+}
+.toppo {
+    position: absolute;
+    display: inline-block;
+    margin-left: 30.5%;
+    width: 31.25%;
+    height: 100%;
+    border-right: 1px solid gray ;
+    border-left: 1px solid gray ;
+    border-bottom: 1px solid gray ;
+}
+.logo {
+    display: inline-block;
+    height: 70%;
+    width: 35px;
+    margin-left: 16.5%;
+    position: absolute;
+    left: 5px;
+    bottom: 7px;
+
+}
+.Trump {
+    height: 100%;
+    width: 90%;
+}
+.left {
+    border-right: 1px solid gray;
+    position: fixed;
+    top : 50px;
+    height: 100%;
+    width: 30.5%;
+
+
+}
+.LC {
+    float: right;
+    height: 100%;
+    width: 40%;
+    margin-right: 36px;
+    margin-top: 5px;
+}
+.Lbutton {
+    margin-top: 15px;
+    height : 45px;
+    align-items: center;
+    position: relative;
+
+
+}
+.Ltext {
+    height: 100%;
+    width: 60%;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: Arial;
+    position: relative;
+
+
+}
+
+.lIcon {
+    max-height: 70%;
+    max-width: 70%;
+    filter: brightness(0%);
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 10px;
+
+}
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(0, -50%)
+}
+.center2 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+.input {
+    width: 85%;
+    height: 80%;
+    position: relative;
+    top:2px;
+    border-radius: 100px;
+    padding-left: 40px;
+    background-image: url(res/pupa.png);
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    font-family: Arial;
+
+}
+.right {
+    position: fixed;
+    height: 100%;
+    top: 50px;
+    width: 37.8%;
+    left : 62.2%;
+    border-left: 1px solid gray ;
+}
+.RC {
+    position: absolute;
+    height: 100%;
+    width: 47.5%;
+    margin-left: 32px;
+}
+.rtop {
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-top : 15px;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+}
+.center3 {
+    position: relative;
+    top:50%;
+    text-align: center;
+    transform: translate(0, -50%);
+    font-weight: 600;
+    font-size: 16px;
+    font-family: Arial;
+    color: white;
+
+}
+.block {
+    display: inline-block;
+    border: 1px solid gray;
+    width: 33%;
+    height: 100%;
+}
+.head {
+    top: 50px;
+    position: relative;
+    margin-left: 30.85%;
+    width: 31.45%;
+    height: 500px;
+    z-index: 2;
+    border-bottom: 1px solid gray;
+}
+.bStyle {
+    font-weight: 600;
+    font-size: 16px;
+    font-family: Arial;
+}
+.tweet {
+    background: lightgray;
+    border-bottom: 1px solid gray;
+}
+.tweet1 {
+    height: 400px;
+}
+.tweet2 {
+    height: 300px;
+}
+
